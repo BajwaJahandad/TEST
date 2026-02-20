@@ -12,7 +12,7 @@ When we declare a new record, we assign a value to each field in the record.
 // C-style example
 
 struct date {
-    int day;
+    int date1;
     int month;
     int year;
 };
